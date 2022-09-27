@@ -1,0 +1,48 @@
+:root {
+    /* Màu sắc */
+    --primary: #27b7f8;
+    --primary-bg: #f1f5f9;
+    --line-color: #139ddb;
+    --hover-bg: #e6f7ff;
+    --btn-hover-bg: #1180b2;
+    --icon-s-btn-hover-bg: #eff1f6;
+    --title-color: #171b2a;
+    --text-color: #2c3e50;
+    --text-active-color: #000;
+    --icon-bg-hover: #eff1f6;
+    --sidebar-icon-color: #65696e;
+    --icon-default-color: #686c7b;
+    --icon-default-hover-bg: #f2f2f2;
+    --sidebar-icon-active-color: #000;
+    --sidebar-item-active-bg: #e2e8f0;
+    --border-input-color: #e0e0e0;
+    --icon-color: #9fa4b4;
+    --active-option-dropbox-bg: #f3fbfd;
+    --tag-color: rgb(102, 209, 129);
+    --tag-bg: rgb(232, 248, 236);
+    --detail-row-border-color: rgb(224, 229, 230);
+    --popup-footer-bg: #f2f2f2;
+    --delete-icon-color: #de1e1e; 
+    --warn-text-color: #ff6333;
+    --warn-bg: #f90;
+    /* --sidebar-item-active-bg: #000; */
+    /* Kích thước */
+    --height-header: 56px;
+    --width-sidebar: 193px;
+    --width-title-container: 535px;
+    --pd-default: 16px;
+    --sidebar-item-height: 44px;
+    --base-heigth: 34px;
+    --base-checkbox-height: 35px;
+    --detail-row-height: 36px;
+    --row-height: 35px;
+    --footer-height: 56px;
+    --detail-user-width: 515px;
+    --detail-user-group-width: 715px;
+    /* popup-edit-user-group */
+    --height-popup-edit-user-group: 550px;
+    --height-popup-add-member: 600px;
+    --header-height-popup-edit-user-group: 58px;
+    --footer-height-popup-edit-user-group: 60px;
+
+}

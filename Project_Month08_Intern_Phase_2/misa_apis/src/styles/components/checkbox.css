@@ -1,0 +1,21 @@
+.dx-checkbox-icon {
+    width: 17px !important;
+    height: 17px !important;
+    border-radius: 4px !important;
+    border: 3px solid #686c7b !important;
+}
+
+.dx-checkbox-checked .dx-checkbox-icon {
+    color: #fff !important;
+    background-color: var(--primary) !important;
+    border-color: var(--primary) !important;
+
+}
+
+.dx-checkbox.dx-state-hover .dx-checkbox-icon {
+    border-color: var(--primary) !important;
+}
+
+.dx-checkbox-text {
+    padding-left: 12px !important;
+}

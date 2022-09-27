@@ -1,0 +1,25 @@
+.dx-list {
+    width: 100% !important;
+}
+
+.dx-list-item {
+    border: none !important;
+}
+
+.base-option .dx-list:not(.dx-list-select-decorator-enabled) .dx-list-item.dx-state-hover {
+    background-color: var(--active-option-dropbox-bg) !important;
+    color: var(--title-color) !important;
+}
+
+.dx-list:not(.dx-list-select-decorator-enabled) .dx-list-item.dx-state-active,
+.dx-list:not(.dx-list-select-decorator-enabled) .dx-list-item.dx-state-focused {
+    background-color: var(--active-option-dropbox-bg) !important;
+    color: var(--title-color) !important;
+
+}
+
+.dx-list-item-after-bag .dx-list-reorder-handle::before {
+    -webkit-mask-position: -492px -1px;
+    -webkit-mask-image: url(../../assets/Icons/ic_sprites.svg);
+    background: var(--icon-default-color);
+}

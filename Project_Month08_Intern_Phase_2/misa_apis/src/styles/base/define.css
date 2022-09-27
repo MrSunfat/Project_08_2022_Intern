@@ -1,0 +1,180 @@
+
+@font-face {
+    font-family: Open Sans Regular;
+    src: url("../../assets/Fonts/OpenSans-Regular.ttf");
+}
+
+@font-face {
+    font-family: Open Sans SemiBold;
+    src: url("../../assets/Fonts/OpenSans-Semibold.ttf");
+}
+
+@font-face {
+    font-family: Open Sans Bold;
+    src: url("../../assets/Fonts/OpenSans-Bold.ttf");
+}
+
+* {
+    font-family: Open Sans Regular;
+    box-sizing: border-box;
+}
+
+.d-f {
+    display: flex;
+}
+
+/* Căn chính giữa */
+.center-vertical {
+    display: flex;
+    align-items: center;
+}
+
+/* Width */
+.w-100 {
+    width: 100px;
+}
+
+.w-115 {
+    width: 115px;
+}
+
+.w-80 {
+    width: 80px;
+}
+
+.w-305 {
+    width: 305px;
+}
+
+.w-307 {
+    width: 307px !important;
+}
+
+/* text color */
+.text-default-color {
+    color: var(--text-color);
+}
+
+/* Size icon */
+.icon-size {
+    width: 36px;
+    height: 36px;
+    border-radius: 50%;
+}
+
+/* .icon-size:hover {
+    background-color: var(--icon-bg-hover);
+} */
+
+.icon-size-hover-bg:hover {
+    background-color: var(--icon-bg-hover);
+}
+
+.icon-title-size {
+    width: 24px;
+    height: 24px;
+    background-color: #000;
+}
+
+/* Font size chữ */
+.font-20 {
+    font-size: 20px !important;
+}
+
+.font-16 {
+    font-size: 16px !important;
+}
+
+.font-14 {
+    font-size: 14px !important;
+}
+
+.font-18 {
+    font-size: 18px !important;
+}
+
+/* Font style */
+.semi-bold {
+    font-family: Open Sans SemiBold;
+}
+
+.bold {
+    font-family: Open Sans Bold;
+}
+
+/* Margin */
+/* margin left */
+.mg-l-8 {
+    margin-left: 8px;
+}
+
+.mg-l-9 {
+    margin-left: 9px;
+}
+
+.mg-l-14 {
+    margin-left: 14px;
+}
+
+.mg-l-16 {
+    margin-left: 16px;
+}
+
+/* margin right */
+.mg-r-8 {
+    margin-right: 8px;
+}
+
+.mg-r-9 {
+    margin-right: 9px;
+}
+
+.mg-r-12 {
+    margin-right: 12px;
+}
+
+.mg-r-14 {
+    margin-right: 14px;
+}
+
+.mg-r-16 {
+    margin-right: 16px;
+}
+
+/* margin bottom */
+.mg-b-16 {
+    margin-bottom: 16px;
+}
+
+.mg-b-14 {
+    margin-bottom: 14px;
+}
+
+.mg-b-12 {
+    margin-bottom: 12px;
+}
+
+.mg-b-24 {
+    margin-bottom: 24px;
+}
+
+/* margin top */
+.mg-t-16 {
+
+}
+
+.no-mg {
+    margin: 0;
+}
+
+.required {
+    color: #e54848;
+    font-size: 14px;
+}
+
+.nowrap {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    width: 490px;
+  }

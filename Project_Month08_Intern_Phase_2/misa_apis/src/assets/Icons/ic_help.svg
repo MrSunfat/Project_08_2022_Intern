@@ -1,0 +1,6 @@
+<svg id="menu-arrow-circle" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <rect id="Rectangle_6621" data-name="Rectangle 6621" width="24" height="24" transform="translate(24 24) rotate(180)" fill="#3c4153" opacity="0"/>
+  <path id="Path_71" data-name="Path 71" d="M12,2A10,10,0,1,0,22,12,10,10,0,0,0,12,2Zm0,18a8,8,0,1,1,8-8A8,8,0,0,1,12,20Z" fill="#616865"/>
+  <path id="Path_72" data-name="Path 72" d="M12,6A3.5,3.5,0,0,0,8.5,9.5a1,1,0,1,0,2,0A1.5,1.5,0,1,1,12,11a1,1,0,0,0-1,1v2a1,1,0,0,0,2,0V12.84A3.49,3.49,0,0,0,12,6Z" fill="#616865"/>
+  <circle id="Ellipse_1840" data-name="Ellipse 1840" cx="1" cy="1" r="1" transform="translate(11 16)" fill="#616865"/>
+</svg>

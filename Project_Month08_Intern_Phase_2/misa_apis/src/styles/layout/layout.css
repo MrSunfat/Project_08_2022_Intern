@@ -1,0 +1,11 @@
+#app {
+    display: grid;
+    grid-template-columns: auto;
+    grid-template-rows: var(--height-header) calc(100vh - var(--height-header));
+}
+
+.main {
+    display: grid;
+    grid-template-columns: var(--width-sidebar) calc(100vw - var(--width-sidebar));
+    max-height: calc(100vh - var(--height-header));
+}

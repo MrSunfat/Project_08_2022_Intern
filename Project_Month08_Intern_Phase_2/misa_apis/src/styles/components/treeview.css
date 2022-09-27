@@ -1,0 +1,57 @@
+.dx-treeview-toggle-item-visibility {
+    top: 8px !important;
+    left: 0 !important;
+    width: 20px !important;
+    height: 20px !important;
+    margin-right: 5px !important;
+    mask: url('../../assets/Icons/ic_sprites.svg') no-repeat -572px 0 !important;
+    background-color: #666 !important;
+}
+
+.dx-treeview-toggle-item-visibility.dx-treeview-toggle-item-visibility-opened {
+    mask: url('../../assets/Icons/ic_sprites.svg') no-repeat -594px -3px !important;
+    top: 12px !important;
+    left: 2px !important;
+    width: 20px !important;
+    height: 20px !important;
+    margin-right: 5px !important;
+}
+
+.dx-treeview-node {
+    padding-left: 24px !important;
+}
+
+.dx-treeview-item.dx-state-hover {
+    background-color: #f3fbfd !important
+}
+
+.dx-treeview-item-without-checkbox.dx-state-selected > .dx-treeview-item {
+    color: var(--primary) !important;
+    background-color: #f3fbfd !important;
+}
+
+.dx-treeview-item-without-checkbox.dx-state-focused > .dx-treeview-item {
+    color: var(--text-primary-color) !important;
+    background-color: transparent !important;
+}
+
+.dx-treeview-item {
+    padding: 8px 8px !important;
+}
+
+.dx-treeview-item .dx-treeview-item-content {  
+    white-space: nowrap !important;  
+    overflow: hidden !important;
+    text-overflow: ellipsis !important; 
+} 
+
+/* .dx-dropdowneditor-input-wrapper .dx-placeholder {
+    padding-left: 24px !important;
+} */
+
+.organization-unit-tree__main .dx-dropdowneditor-icon::before {
+    -webkit-mask: url('../../assets/Icons/ic_sprites_2.svg') no-repeat -146px -26px !important;
+    mask: url('../../assets/Icons/ic_sprites_2.svg') no-repeat -146px -26px !important;
+    height: 18px;
+    background-color: #868ca4;
+}

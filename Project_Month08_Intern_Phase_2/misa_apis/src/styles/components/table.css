@@ -1,0 +1,53 @@
+.dx-datagrid-text-content {
+    color: var(--title-color);
+    font-size: 14px;
+    font-family: Open Sans Bold;
+}
+
+.dx-datagrid .dx-column-lines > td {
+    border-left-width: 0 !important; 
+    border-right-width: 0 !important;
+}
+
+.dx-datagrid-headers {
+    border-bottom: 0px solid #ddd !important;
+}
+
+.dx-datagrid-rowsview .dx-row:hover {
+    cursor: pointer;
+    background-color: var(--hover-bg);
+}
+
+.dx-row.dx-column-lines.dx-header-row,
+.dx-row.dx-data-row {
+    height: var(--row-height);
+    line-height: var(--row-height);
+}
+
+.dx-datagrid .dx-row > td {
+    /* padding: 0 12px !important; */
+    /* height: var(--row-height); */
+    vertical-align: middle !important;
+}
+
+td[role="columnheader"] {
+    padding: 0 12px !important;
+}
+
+.dx-datagrid-rowsview .dx-row-focused.dx-data-row:not(.dx-row-lines) > td {
+    border-top: 1px solid var(--hover-bg) !important;
+    border-bottom: 1px solid var(--hover-bg) !important;
+}
+
+.dx-datagrid-rowsview .dx-row-focused.dx-data-row > td:not(.dx-focused) {
+    background-color: var(--hover-bg) !important;
+    color: var(--title-color) !important;
+}
+
+.dx-checkbox-indeterminate .dx-checkbox-icon::before {
+    background-color: transparent !important;
+}
+
+.dx-datagrid-rowsview .dx-selection.dx-row:not(.dx-row-focused) > td, .dx-datagrid-rowsview .dx-selection.dx-row:not(.dx-row-focused) > tr > td, .dx-datagrid-rowsview .dx-selection.dx-row:not(.dx-row-focused):hover > td, .dx-datagrid-rowsview .dx-selection.dx-row:not(.dx-row-focused):hover > tr > td{
+    background-color: #f3fbfd !important;
+}
