@@ -1,0 +1,15 @@
+C:\Users\hue\Desktop\Project_APIS_MISA_08\Project_Web06_Intern_Phase_2\MISA.Web06.APIS\MISA.Web06.APIS.Infrastructure\bin\Debug\net6.0\MISA.Web06.APIS.Infrastructure.deps.json
+C:\Users\hue\Desktop\Project_APIS_MISA_08\Project_Web06_Intern_Phase_2\MISA.Web06.APIS\MISA.Web06.APIS.Infrastructure\bin\Debug\net6.0\MISA.Web06.APIS.Infrastructure.dll
+C:\Users\hue\Desktop\Project_APIS_MISA_08\Project_Web06_Intern_Phase_2\MISA.Web06.APIS\MISA.Web06.APIS.Infrastructure\bin\Debug\net6.0\MISA.Web06.APIS.Infrastructure.pdb
+C:\Users\hue\Desktop\Project_APIS_MISA_08\Project_Web06_Intern_Phase_2\MISA.Web06.APIS\MISA.Web06.APIS.Infrastructure\bin\Debug\net6.0\MISA.Web06.APIS.Core.dll
+C:\Users\hue\Desktop\Project_APIS_MISA_08\Project_Web06_Intern_Phase_2\MISA.Web06.APIS\MISA.Web06.APIS.Infrastructure\bin\Debug\net6.0\MISA.Web06.APIS.Core.pdb
+C:\Users\hue\Desktop\Project_APIS_MISA_08\Project_Web06_Intern_Phase_2\MISA.Web06.APIS\MISA.Web06.APIS.Infrastructure\obj\Debug\net6.0\MISA.Web06.APIS.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\hue\Desktop\Project_APIS_MISA_08\Project_Web06_Intern_Phase_2\MISA.Web06.APIS\MISA.Web06.APIS.Infrastructure\obj\Debug\net6.0\MISA.Web06.APIS.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hue\Desktop\Project_APIS_MISA_08\Project_Web06_Intern_Phase_2\MISA.Web06.APIS\MISA.Web06.APIS.Infrastructure\obj\Debug\net6.0\MISA.Web06.APIS.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\hue\Desktop\Project_APIS_MISA_08\Project_Web06_Intern_Phase_2\MISA.Web06.APIS\MISA.Web06.APIS.Infrastructure\obj\Debug\net6.0\MISA.Web06.APIS.Infrastructure.AssemblyInfo.cs
+C:\Users\hue\Desktop\Project_APIS_MISA_08\Project_Web06_Intern_Phase_2\MISA.Web06.APIS\MISA.Web06.APIS.Infrastructure\obj\Debug\net6.0\MISA.Web06.APIS.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\hue\Desktop\Project_APIS_MISA_08\Project_Web06_Intern_Phase_2\MISA.Web06.APIS\MISA.Web06.APIS.Infrastructure\obj\Debug\net6.0\MISA.Web06.APIS.Infrastructure.csproj.CopyComplete
+C:\Users\hue\Desktop\Project_APIS_MISA_08\Project_Web06_Intern_Phase_2\MISA.Web06.APIS\MISA.Web06.APIS.Infrastructure\obj\Debug\net6.0\MISA.Web06.APIS.Infrastructure.dll
+C:\Users\hue\Desktop\Project_APIS_MISA_08\Project_Web06_Intern_Phase_2\MISA.Web06.APIS\MISA.Web06.APIS.Infrastructure\obj\Debug\net6.0\refint\MISA.Web06.APIS.Infrastructure.dll
+C:\Users\hue\Desktop\Project_APIS_MISA_08\Project_Web06_Intern_Phase_2\MISA.Web06.APIS\MISA.Web06.APIS.Infrastructure\obj\Debug\net6.0\MISA.Web06.APIS.Infrastructure.pdb
+C:\Users\hue\Desktop\Project_APIS_MISA_08\Project_Web06_Intern_Phase_2\MISA.Web06.APIS\MISA.Web06.APIS.Infrastructure\obj\Debug\net6.0\ref\MISA.Web06.APIS.Infrastructure.dll

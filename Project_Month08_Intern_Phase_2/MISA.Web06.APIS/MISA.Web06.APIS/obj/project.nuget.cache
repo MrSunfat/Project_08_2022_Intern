@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "kLFf0/gMuKeWqXnR1MsFGdgxvB4hUkk9zIkxAYPK4PtrTqxBmmok/UMMnGC5pcwPHbEg6ReKiDCdpydGKgwTVw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hue\\Desktop\\Project_APIS_MISA_08\\Project_Web06_Intern_Phase_2\\MISA.Web06.APIS\\MISA.Web06.APIS\\MISA.Web06.APIS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hue\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\hue\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\hue\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\hue\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\hue\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\hue\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "/Sy6w/5fNVpQu03uPWNTmOZtmQHgUkXulGXwNoMSV8UWN1MT3c9yvmLFFC3cWEVXxB55eh4eFB4sbShCTPcwGA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hue\\Desktop\\Project_APIS_MISA_08\\Project_Web06_Intern_Phase_2\\MISA.Web06.APIS\\MISA.Web06.APIS.Core\\MISA.Web06.APIS.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hue\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
+    "C:\\Users\\hue\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.17\\microsoft.aspnetcore.http.features.5.0.17.nupkg.sha512",
+    "C:\\Users\\hue\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\hue\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\hue\\.nuget\\packages\\mysqlconnector\\2.1.13\\mysqlconnector.2.1.13.nupkg.sha512",
+    "C:\\Users\\hue\\.nuget\\packages\\system.io.pipelines\\5.0.2\\system.io.pipelines.5.0.2.nupkg.sha512",
+    "C:\\Users\\hue\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
